@@ -4,6 +4,8 @@
 
 ## Alternate Toe Touches
 
+![Alternate Toe Touches](img/alternate-toe-touches.jpg)
+
 - **Primary:** Obliques
 - **Secondary:** Core, Abs
 - **Equipment:** Body Weight, No Equipment
@@ -19,6 +21,8 @@ Instructions
 - Keep the lower back pressed into the mat throughout the movement.
 
 ## Bear crawl walkouts
+
+![Bear crawl walkouts](img/bear-crawl-walkouts.jpg)
 
 - **Primary:** Core
 - **Secondary:** Shoulders, Quads, Glutes
@@ -36,6 +40,8 @@ Instructions
 
 ## Bicycle
 
+![Bicycle](img/bicycle.jpg)
+
 - **Primary:** Obliques
 - **Secondary:** Core, Abs
 - **Equipment:** Body Weight, No Equipment
@@ -51,6 +57,8 @@ Instructions
 - Maintain a controlled rhythm throughout — do not rush the movement.
 
 ## Bicycle Crunches
+
+![Bicycle Crunches](img/bicycle-crunches.jpg)
 
 - **Primary:** Obliques
 - **Secondary:** Core, Abs
@@ -68,6 +76,8 @@ Instructions
 
 ## Body saw
 
+![Body saw](img/body-saw.jpg)
+
 - **Primary:** Core
 - **Secondary:** Abs, Shoulders, Glutes
 - **Equipment:** Body Weight, No Equipment
@@ -82,6 +92,8 @@ Instructions
 - Keep your hips level and your core engaged throughout the movement.
 
 ## Climbers
+
+![Climbers](img/climbers.jpg)
 
 - **Primary:** Core
 - **Secondary:** Shoulders, Abs, Quads
@@ -99,6 +111,8 @@ Instructions
 
 ## Crunches
 
+![Crunches](img/crunches.jpg)
+
 - **Primary:** Abs
 - **Secondary:** Hip Flexors
 - **Equipment:** Body Weight, No Equipment
@@ -113,6 +127,8 @@ Instructions
 - Keep the core engaged and lower back pressed into the mat throughout.
 
 ## Dolphin
+
+![Dolphin](img/dolphin.jpg)
 
 - **Primary:** Core
 - **Secondary:** Shoulders, Lower Back
@@ -130,6 +146,8 @@ Instructions
 
 ## Hanging 90-Degree Leg Scissor Kicks
 
+![Hanging 90-Degree Leg Scissor Kicks](img/hanging-90-degree-leg-scissor-kicks.jpg)
+
 - **Primary:** Abs
 - **Secondary:** Obliques, Core, Forearms
 - **Equipment:** Pull Up Bar
@@ -143,6 +161,8 @@ Instructions
 - Keep the core tightly engaged throughout to avoid swinging the body.
 
 ## Hanging Around the World
+
+![Hanging Around the World](img/hanging-around-the-world.jpg)
 
 - **Primary:** Obliques
 - **Secondary:** Hip Flexors, Abs, Forearms
@@ -159,6 +179,8 @@ Instructions
 
 ## Hanging Knee Raise with Twist
 
+![Hanging Knee Raise with Twist](img/hanging-knee-raise-with-twist.jpg)
+
 - **Primary:** Obliques
 - **Secondary:** Hip Flexors, Forearms, Abs
 - **Equipment:** Pull Up Bar
@@ -173,6 +195,8 @@ Instructions
 - Repeat the movement, rotating the knees to the opposite side.
 
 ## Hanging Leg Crossover Kicks
+
+![Hanging Leg Crossover Kicks](img/hanging-leg-crossover-kicks.jpg)
 
 - **Primary:** Abs
 - **Secondary:** Core, Obliques, Forearms
@@ -190,6 +214,8 @@ Instructions
 
 ## Hanging Leg Raises
 
+![Hanging Leg Raises](img/hanging-leg-raises.jpg)
+
 - **Primary:** Abs
 - **Secondary:** Hip Flexors, Obliques, Forearms
 - **Equipment:** Pull Up Bar
@@ -204,6 +230,8 @@ Instructions
 - Lower the legs back down slowly and with control.
 
 ## Leg Tuck Crunch
+
+![Leg Tuck Crunch](img/leg-tuck-crunch.jpg)
 
 - **Primary:** Abs
 - **Secondary:** Quads, Hip Flexors
@@ -221,6 +249,8 @@ Instructions
 
 ## Plank
 
+![Plank](img/plank.jpg)
+
 - **Primary:** Core
 - **Secondary:** Shoulders, Glutes, Quads
 - **Equipment:** Body Weight, No Equipment
@@ -235,6 +265,8 @@ Instructions
 
 ## Plank
 
+![Plank](img/plank.jpg)
+
 - **Primary:** Core
 - **Secondary:** Shoulders, Quads, Glutes
 - **Equipment:** Body Weight, No Equipment
@@ -248,6 +280,8 @@ Instructions
 - Breathe steadily and hold the position for the prescribed amount of time.
 
 ## Plank Hip Dips
+
+![Plank Hip Dips](img/plank-hip-dips.jpg)
 
 - **Primary:** Core
 - **Secondary:** Shoulders, Glutes
@@ -264,6 +298,8 @@ Instructions
 - Keep the shoulders stable and avoid shrugging or collapsing in the upper back.
 
 ## Plank Hip Dips
+
+![Plank Hip Dips](img/plank-hip-dips.jpg)
 
 - **Primary:** Core
 - **Secondary:** Shoulders, Glutes
@@ -281,6 +317,8 @@ Instructions
 
 ## Plank side steps
 
+![Plank side steps](img/plank-side-steps.jpg)
+
 - **Primary:** Core
 - **Secondary:** Obliques, Glutes, Shoulders
 - **Equipment:** Body Weight, Long Band
@@ -296,6 +334,8 @@ Instructions
 
 ## Plank with Shoulder Taps
 
+![Plank with Shoulder Taps](img/plank-with-shoulder-taps.jpg)
+
 - **Primary:** Core
 - **Secondary:** Shoulders, Chest, Triceps
 - **Equipment:** Body Weight, No Equipment
@@ -309,6 +349,8 @@ Instructions
 - Keep the hips as stable as possible — avoid rotating from side to side.
 
 ## Pull overs
+
+![Pull overs](img/pull-overs.jpg)
 
 - **Primary:** Abs
 - **Secondary:** Core
@@ -324,6 +366,8 @@ Instructions
 - Keep the core tight and avoid rounding the lower back.
 
 ## Reverse crunch
+
+![Reverse crunch](img/reverse-crunch.jpg)
 
 - **Primary:** Abs
 - **Secondary:** Core
@@ -341,6 +385,8 @@ Instructions
 
 ## Scissors
 
+![Scissors](img/scissors.jpg)
+
 - **Primary:** Abs
 - **Secondary:** Core, Hip Flexors
 - **Equipment:** Body Weight, No Equipment
@@ -355,6 +401,8 @@ Instructions
 - Keep the arms in front of you and the core engaged throughout.
 
 ## Seated Knee Tucks
+
+![Seated Knee Tucks](img/seated-knee-tucks.jpg)
 
 - **Primary:** Abs
 - **Secondary:** Hip Flexors, Core
@@ -372,6 +420,8 @@ Instructions
 
 ## Shoulder taps
 
+![Shoulder taps](img/shoulder-taps.jpg)
+
 - **Primary:** Core
 - **Secondary:** Shoulders, Chest
 - **Equipment:** Body Weight, No Equipment
@@ -385,6 +435,8 @@ Instructions
 - Keep the hips as stable as possible — avoid rotating from side to side.
 
 ## Star crunch
+
+![Star crunch](img/star-crunch.jpg)
 
 - **Primary:** Obliques
 - **Secondary:** Core, Abs
@@ -402,6 +454,8 @@ Instructions
 
 ## Toe touch
 
+![Toe touch](img/toe-touch.jpg)
+
 - **Primary:** Abs
 - **Secondary:** Hip Flexors
 - **Equipment:** Body Weight, No Equipment
@@ -417,6 +471,8 @@ Instructions
 - Avoid pulling the neck — the movement comes from the core, not momentum.
 
 ## Toe Touches
+
+![Toe Touches](img/toe-touches.jpg)
 
 - **Primary:** Abs
 - **Secondary:** Hip Flexors
@@ -434,6 +490,8 @@ Instructions
 
 ## Walking plank
 
+![Walking plank](img/walking-plank.jpg)
+
 - **Primary:** Core
 - **Secondary:** Shoulders, Chest, Glutes
 - **Equipment:** Body Weight, No Equipment
@@ -450,6 +508,8 @@ Instructions
 
 ## Weighted Russian Twist
 
+![Weighted Russian Twist](img/weighted-russian-twist.jpg)
+
 - **Primary:** Obliques
 - **Secondary:** Abs
 - **Equipment:** Plate
@@ -464,6 +524,8 @@ Instructions
 - Keep the chest up and avoid rounding the lower back during the movement.
 
 ## Сrunch pulse
+
+![Сrunch pulse](img/runch-pulse.jpg)
 
 - **Primary:** Abs
 - **Secondary:** Core, Hip Flexors

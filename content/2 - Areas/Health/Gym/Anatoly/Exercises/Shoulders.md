@@ -4,6 +4,8 @@
 
 ## Backpack overhead press
 
+![Backpack overhead press](img/backpack-overhead-press.jpg)
+
 - **Primary:** Shoulders
 - **Secondary:** Triceps, Core
 - **Equipment:** Weighted Backpack
@@ -20,6 +22,8 @@ Instructions
 
 ## Front Plate Raises
 
+![Front Plate Raises](img/front-plate-raises.jpg)
+
 - **Primary:** Shoulders
 - **Secondary:** Forearms, Core
 - **Equipment:** Plate
@@ -33,6 +37,8 @@ Instructions
 - Pause briefly at the top, then lower the plate back down with control and repeat.
 
 ## Front raises
+
+![Front raises](img/front-raises.jpg)
 
 - **Primary:** Shoulders
 - **Secondary:** Chest, Core
@@ -50,6 +56,8 @@ Instructions
 
 ## Lateral raises
 
+![Lateral raises](img/lateral-raises.jpg)
+
 - **Primary:** Shoulders
 - **Secondary:** Core, Traps
 - **Equipment:** Plate
@@ -65,6 +73,8 @@ Instructions
 - Keep shoulders down and avoid shrugging at the top.
 
 ## Machine shoulder press
+
+![Machine shoulder press](img/machine-shoulder-press.jpg)
 
 - **Primary:** Shoulders
 - **Secondary:** Triceps, Chest
@@ -82,6 +92,8 @@ Instructions
 
 ## One-arm kettlebell push press
 
+![One-arm kettlebell push press](img/one-arm-kettlebell-push-press.jpg)
+
 - **Primary:** Shoulders
 - **Secondary:** Triceps, Quads
 - **Equipment:** Kettlebell
@@ -97,6 +109,8 @@ Instructions
 
 ## Overhead Dumbbell Press
 
+![Overhead Dumbbell Press](img/overhead-dumbbell-press.jpg)
+
 - **Primary:** Shoulders
 - **Secondary:** Triceps, Traps
 - **Equipment:** Dumbbell, Bench Incline
@@ -111,6 +125,8 @@ Instructions
 - Keep the elbows at a 90° at the bottom and avoid flaring them too far forward or back.
 
 ## Overhead Sit-Up
+
+![Overhead Sit-Up](img/overhead-sit-up.jpg)
 
 - **Primary:** Shoulders
 - **Secondary:** Core, Shoulders
@@ -128,6 +144,8 @@ Instructions
 
 ## Pike
 
+![Pike](img/pike.jpg)
+
 - **Primary:** Shoulders
 - **Secondary:** Core, Abs, Hamstrings
 - **Equipment:** Body Weight, No Equipment
@@ -143,6 +161,8 @@ Instructions
 
 ## Pike Push-Ups
 
+![Pike Push-Ups](img/pike-push-ups.jpg)
+
 - **Primary:** Shoulders
 - **Secondary:** Triceps, Chest, Core
 - **Equipment:** Box
@@ -157,6 +177,8 @@ Instructions
 - Keep the core tight and avoid letting the hips drop during the push-up.
 
 ## Prone front raises on a 45° bench
+
+![Prone front raises on a 45° bench](img/prone-front-raises-on-a-45-bench.jpg)
 
 - **Primary:** Shoulders
 - **Secondary:** Chest, Core
@@ -174,6 +196,8 @@ Instructions
 
 ## Rear delt fly
 
+![Rear delt fly](img/rear-delt-fly.jpg)
+
 - **Primary:** Shoulders
 - **Secondary:** Back
 - **Equipment:** Plate
@@ -189,6 +213,8 @@ Instructions
 - Keep the torso still and avoid using momentum throughout the movement.
 
 ## Rear Delt Fly
+
+![Rear Delt Fly](img/rear-delt-fly.jpg)
 
 - **Primary:** Shoulders
 - **Secondary:** Back, Core
@@ -206,6 +232,8 @@ Instructions
 
 ## Seated dumbbell lateral raises
 
+![Seated dumbbell lateral raises](img/seated-dumbbell-lateral-raises.jpg)
+
 - **Primary:** Shoulders
 - **Secondary:** Forearms, Core
 - **Equipment:** Dumbbell, Bench
@@ -222,6 +250,8 @@ Instructions
 
 ## Seated dumbbell press
 
+![Seated dumbbell press](img/seated-dumbbell-press.jpg)
+
 - **Primary:** Shoulders
 - **Secondary:** Triceps
 - **Equipment:** Dumbbell, Bench Incline
@@ -236,6 +266,8 @@ Instructions
 - Lower both dumbbells in a controlled manner back to shoulder height, elbows returning to roughly 90°.
 
 ## Shoulder Halo Raises
+
+![Shoulder Halo Raises](img/shoulder-halo-raises.jpg)
 
 - **Primary:** Shoulders
 - **Secondary:** Core, Triceps
@@ -253,6 +285,8 @@ Instructions
 
 ## Smith machine shoulder press
 
+![Smith machine shoulder press](img/smith-machine-shoulder-press.jpg)
+
 - **Primary:** Shoulders
 - **Secondary:** Triceps, Chest
 - **Equipment:** Smith Machine, Bench Incline
@@ -269,6 +303,8 @@ Instructions
 
 ## Standing dumbbell shrugs
 
+![Standing dumbbell shrugs](img/standing-dumbbell-shrugs.jpg)
+
 - **Primary:** Shoulders
 - **Secondary:** Traps, Forearms
 - **Equipment:** Dumbbell
@@ -282,6 +318,8 @@ Instructions
 - Pause briefly at the top, then lower the shoulders in a controlled manner back to the starting position.
 
 ## Standing lateral raise
+
+![Standing lateral raise](img/standing-lateral-raise.jpg)
 
 - **Primary:** Shoulders
 - **Secondary:** Traps
@@ -300,6 +338,8 @@ Instructions
 
 ## Standing overhead press
 
+![Standing overhead press](img/standing-overhead-press.jpg)
+
 - **Primary:** Shoulders
 - **Secondary:** Chest, Triceps
 - **Equipment:** Barbell
@@ -314,6 +354,8 @@ Instructions
 - Lower the bar back to the upper chest in a controlled manner, keeping elbows slightly forward.
 
 ## Upright Row
+
+![Upright Row](img/upright-row.jpg)
 
 - **Primary:** Shoulders
 - **Secondary:** Biceps, Traps
@@ -330,6 +372,8 @@ Instructions
 - Keep the bar close to your body throughout the entire movement.
 
 ## Upright Rows with Barbell
+
+![Upright Rows with Barbell](img/upright-rows-with-barbell.jpg)
 
 - **Primary:** Shoulders
 - **Secondary:** Biceps, Traps

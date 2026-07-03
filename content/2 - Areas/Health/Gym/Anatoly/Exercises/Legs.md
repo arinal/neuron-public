@@ -4,6 +4,8 @@
 
 ## Abductor Machine
 
+![Abductor Machine](img/abductor-machine.jpg)
+
 - **Primary:** Glutes
 - **Secondary:** —
 - **Equipment:** Abduction Machine
@@ -19,6 +21,8 @@ Instructions
 
 ## Banded hip thrust
 
+![Banded hip thrust](img/banded-hip-thrust.jpg)
+
 - **Primary:** Glutes
 - **Secondary:** Hamstrings, Core
 - **Equipment:** Long Band
@@ -33,6 +37,8 @@ Instructions
 - Keep the core engaged and avoid arching the lower back at the top.
 
 ## Banded hip thrust
+
+![Banded hip thrust](img/banded-hip-thrust.jpg)
 
 - **Primary:** Glutes
 - **Secondary:** Hamstrings, Core
@@ -49,6 +55,8 @@ Instructions
 
 ## Banded lunge
 
+![Banded lunge](img/banded-lunge.jpg)
+
 - **Primary:** Glutes
 - **Secondary:** Quadriceps, Hamstrings
 - **Equipment:** Long Band
@@ -64,6 +72,8 @@ Instructions
 
 ## Banded rdl
 
+![Banded rdl](img/banded-rdl.jpg)
+
 - **Primary:** Hamstrings
 - **Secondary:** Glutes, Core
 - **Equipment:** Long Band
@@ -78,6 +88,8 @@ Instructions
 - Squeeze the glutes at the top of the movement.
 
 ## Banded side steps
+
+![Banded side steps](img/banded-side-steps.jpg)
 
 - **Primary:** Glutes
 - **Secondary:** Quads, Core
@@ -95,6 +107,8 @@ Instructions
 
 ## Banded Side Steps
 
+![Banded Side Steps](img/banded-side-steps.jpg)
+
 - **Primary:** Glutes
 - **Secondary:** Quads, Core
 - **Equipment:** Long Band
@@ -110,6 +124,8 @@ Instructions
 - Avoid bringing the feet too close together — maintain constant tension in the band.
 
 ## Banded Squat
+
+![Banded Squat](img/banded-squat.jpg)
 
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings, Core
@@ -127,6 +143,8 @@ Instructions
 
 ## Barbell walking lunges
 
+![Barbell walking lunges](img/barbell-walking-lunges.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings, Calves
 - **Equipment:** Barbell
@@ -141,6 +159,8 @@ Instructions
 - Step immediately forward with the opposite foot and repeat the lunge on the other side.
 
 ## Broad Jumps
+
+![Broad Jumps](img/broad-jumps.jpg)
 
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings, Calves
@@ -157,6 +177,8 @@ Instructions
 
 ## Bulgarian Split Squats
 
+![Bulgarian Split Squats](img/bulgarian-split-squats.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings
 - **Equipment:** Dumbbell, Bench
@@ -171,6 +193,8 @@ Instructions
 - Push through the heel of the front foot to return to the starting position.
 
 ## Bulgarian-style deadlift
+
+![Bulgarian-style deadlift](img/bulgarian-style-deadlift.jpg)
 
 - **Primary:** Glutes
 - **Secondary:** Hamstrings, Lower Back, Core
@@ -188,6 +212,8 @@ Instructions
 
 ## Burpees
 
+![Burpees](img/burpees.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes, Chest, Shoulders
 - **Equipment:** No Equipment, Body Weight
@@ -202,6 +228,8 @@ Instructions
 - Drive through the full foot and swing the arms upward to launch into a vertical jump.
 
 ## Cable Glute Kickback
+
+![Cable Glute Kickback](img/cable-glute-kickback.jpg)
 
 - **Primary:** Glutes
 - **Secondary:** Hamstrings
@@ -219,6 +247,8 @@ Instructions
 
 ## Cable Hip Abduction
 
+![Cable Hip Abduction](img/cable-hip-abduction.jpg)
+
 - **Primary:** Glutes
 - **Secondary:** Quads, Core
 - **Equipment:** DAP Machine (Cable)
@@ -234,6 +264,8 @@ Instructions
 - Avoid leaning your torso to the opposite side — keep the movement isolated to the hip.
 
 ## Classic deadlift
+
+![Classic deadlift](img/classic-deadlift.jpg)
 
 - **Primary:** Hamstrings
 - **Secondary:** Glutes, Lower Back, Forearms
@@ -252,6 +284,8 @@ _Master the move — Master the move Deadlift:_ Watch the correct form and key t
 
 ## Curtsey lunge + classic lunge
 
+![Curtsey lunge + classic lunge](img/curtsey-lunge-classic-lunge.jpg)
+
 - **Primary:** Glutes
 - **Secondary:** Quads, Hamstrings, Core
 - **Equipment:** Long Band
@@ -267,6 +301,8 @@ Instructions
 
 ## Curtsey lunge + Сlassic lunge
 
+![Curtsey lunge + Сlassic lunge](img/curtsey-lunge-lassic-lunge.jpg)
+
 - **Primary:** Glutes
 - **Secondary:** Quads, Hamstrings, Core
 - **Equipment:** Long Band
@@ -281,6 +317,8 @@ Instructions
 - Keep the chest up and core engaged throughout both movements.
 
 ## Deficit deadlift (platform 5–7 cm)
+
+![Deficit deadlift (platform 5–7 cm)](img/deficit-deadlift-platform-5-7-cm.jpg)
 
 - **Primary:** Hamstrings
 - **Secondary:** Glutes, Lower Back, Forearms
@@ -299,6 +337,8 @@ _Master the move — Master the move Deadlift:_ Watch the correct form and key t
 
 ## Dumbbell lunges
 
+![Dumbbell lunges](img/dumbbell-lunges.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings
 - **Equipment:** Dumbbell
@@ -314,6 +354,8 @@ Instructions
 
 ## Dumbbell Romanian deadlift
 
+![Dumbbell Romanian deadlift](img/dumbbell-romanian-deadlift.jpg)
+
 - **Primary:** Hamstrings
 - **Secondary:** Glutes, Lower Back
 - **Equipment:** Dumbbell
@@ -328,6 +370,8 @@ Instructions
 - Drive the hips forward to return to the starting position, squeezing the glutes at the top.
 
 ## Dynamic Lunges
+
+![Dynamic Lunges](img/dynamic-lunges.jpg)
 
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings
@@ -347,6 +391,8 @@ Instructions
 
 ## Elevated Lunges
 
+![Elevated Lunges](img/elevated-lunges.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings
 - **Equipment:** Box
@@ -362,6 +408,8 @@ Setup
 
 ## Fire hydrant
 
+![Fire hydrant](img/fire-hydrant.jpg)
+
 - **Primary:** Glutes
 - **Secondary:** Core, Hamstrings
 - **Equipment:** Long Band
@@ -376,6 +424,8 @@ Instructions
 - Lower the knee back down slowly and with control.
 
 ## Front squat
+
+![Front squat](img/front-squat.jpg)
 
 - **Primary:** Quads
 - **Secondary:** Glutes, Lower Back
@@ -394,6 +444,8 @@ _Master the move — Master the move Squat:_ Watch the correct form and key tips
 
 ## Front Squats with Bottles
 
+![Front Squats with Bottles](img/front-squats-with-bottles.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes, Core
 - **Equipment:** DIY Weight
@@ -408,6 +460,8 @@ Instructions
 - Push through the heels to return to the standing position.
 
 ## Glute bridge
+
+![Glute bridge](img/glute-bridge.jpg)
 
 - **Primary:** Glutes
 - **Secondary:** Hamstrings, Lower Back, Core
@@ -424,6 +478,8 @@ Instructions
 
 ## Glute bridge
 
+![Glute bridge](img/glute-bridge.jpg)
+
 - **Primary:** Glutes
 - **Secondary:** Hamstrings, Lower Back
 - **Equipment:** Barbell, Bench
@@ -438,6 +494,8 @@ Instructions
 - Lower the hips back down slowly and with control.
 
 ## Glute kickback
+
+![Glute kickback](img/glute-kickback.jpg)
 
 - **Primary:** Glutes
 - **Secondary:** Hamstrings, Core
@@ -454,6 +512,8 @@ Instructions
 - Repeat all reps on one leg before switching sides.
 
 ## Goblet squat
+
+![Goblet squat](img/goblet-squat.jpg)
 
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings
@@ -473,6 +533,8 @@ _Master the move — Master the move Squat:_ Watch the correct form and key tips
 
 ## Good mornings with backpack
 
+![Good mornings with backpack](img/good-mornings-with-backpack.jpg)
+
 - **Primary:** Hamstrings
 - **Secondary:** Glutes, Lower Back
 - **Equipment:** Weighted Backpack
@@ -489,6 +551,8 @@ Instructions
 
 ## Hamstring curls
 
+![Hamstring curls](img/hamstring-curls.jpg)
+
 - **Primary:** Hamstrings
 - **Secondary:** Glutes, Calves
 - **Equipment:** Plate
@@ -503,6 +567,8 @@ Instructions
 - Keep the hips pressed into the mat and avoid lifting them during the curl.
 
 ## High-bar squat (with 2-sec pause)
+
+![High-bar squat (with 2-sec pause)](img/high-bar-squat-with-2-sec-pause.jpg)
 
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings, Lower Back
@@ -522,6 +588,8 @@ _Master the move — Master the move Squat:_ Watch the correct form and key tips
 
 ## Hip extension
 
+![Hip extension](img/hip-extension.jpg)
+
 - **Primary:** Glutes
 - **Secondary:** Hamstrings, Core
 - **Equipment:** Long Band
@@ -536,6 +604,8 @@ Instructions
 - Keep the lower back flat and avoid arching as the leg rises.
 
 ## Hip Extension Pulse
+
+![Hip Extension Pulse](img/hip-extension-pulse.jpg)
 
 - **Primary:** Glutes
 - **Secondary:** Hamstrings, Core
@@ -553,6 +623,8 @@ Instructions
 
 ## Hip Thrusts
 
+![Hip Thrusts](img/hip-thrusts.jpg)
+
 - **Primary:** Glutes
 - **Secondary:** Hamstrings, Quads
 - **Equipment:** Bench, Barbell
@@ -567,6 +639,8 @@ Instructions
 - Lower the hips back down slowly and with control.
 
 ## Hip-dominant smith machine squat
+
+![Hip-dominant smith machine squat](img/hip-dominant-smith-machine-squat.jpg)
 
 - **Primary:** Glutes
 - **Secondary:** Quads, Hamstrings, Lower Back
@@ -585,6 +659,8 @@ Instructions
 
 ## Jump Squats
 
+![Jump Squats](img/jump-squats.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings, Calves
 - **Equipment:** Body Weight, No Equipment
@@ -600,6 +676,8 @@ Instructions
 
 ## Leg curls
 
+![Leg curls](img/leg-curls.jpg)
+
 - **Primary:** Hamstrings
 - **Secondary:** Calves
 - **Equipment:** Leg Curl
@@ -613,6 +691,8 @@ Instructions
 - Squeeze the hamstrings hard at the peak contraction when the legs are fully curled.
 
 ## Leg extensions
+
+![Leg extensions](img/leg-extensions.jpg)
 
 - **Primary:** Quads
 - **Secondary:** —
@@ -628,6 +708,8 @@ Instructions
 - Lower the legs in a controlled manner back to the starting position, resisting the weight on the way down.
 
 ## Leg press (Wide stance)
+
+![Leg press (Wide stance)](img/leg-press-wide-stance.jpg)
 
 - **Primary:** Glutes
 - **Secondary:** Hamstrings, Quads, Calves
@@ -645,6 +727,8 @@ Instructions
 
 ## Leg press (Сlassic stance)
 
+![Leg press (Сlassic stance)](img/leg-press-lassic-stance.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings, Calves
 - **Equipment:** Cyber LP Machine
@@ -660,6 +744,8 @@ Instructions
 - Stop just short of locking out the knees at the top to keep constant tension on the muscles.
 
 ## Low-bar squat
+
+![Low-bar squat](img/low-bar-squat.jpg)
 
 - **Primary:** Glutes
 - **Secondary:** Hamstrings, Quads, Lower Back
@@ -679,6 +765,8 @@ _Master the move — Master the move Squat:_ Watch the correct form and key tips
 
 ## Lunge
 
+![Lunge](img/lunge.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings
 - **Equipment:** Body Weight, No Equipment
@@ -695,6 +783,8 @@ Instructions
 
 ## Lunge with kickback
 
+![Lunge with kickback](img/lunge-with-kickback.jpg)
+
 - **Primary:** Glutes
 - **Secondary:** Quads, Hamstrings, Core
 - **Equipment:** Long Band
@@ -709,6 +799,8 @@ Instructions
 - Keep the torso hinged slightly forward and the core tight throughout the movement.
 
 ## Lunges
+
+![Lunges](img/lunges.jpg)
 
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings
@@ -725,6 +817,8 @@ Instructions
 - Keep the core engaged and avoid leaning forward throughout the movement.
 
 ## Lying leg curl (single leg)
+
+![Lying leg curl (single leg)](img/lying-leg-curl-single-leg.jpg)
 
 - **Primary:** Hamstrings
 - **Secondary:** Glutes, Calves
@@ -743,6 +837,8 @@ Instructions
 
 ## Lying Leg Extension
 
+![Lying Leg Extension](img/lying-leg-extension.jpg)
+
 - **Primary:** Glutes
 - **Secondary:** Core, Hamstrings
 - **Equipment:** Body Weight, No Equipment
@@ -759,6 +855,8 @@ Instructions
 
 ## Narrow-stance leg press (quad focus)
 
+![Narrow-stance leg press (quad focus)](img/narrow-stance-leg-press-quad-focus.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings, Calves
 - **Equipment:** Cyber LP Machine
@@ -773,6 +871,8 @@ Instructions
 - Press through the full foot to extend the legs and push the platform back up, focusing on driving through the quads.
 
 ## Paused deadlift (1-sec pause at bottom)
+
+![Paused deadlift (1-sec pause at bottom)](img/paused-deadlift-1-sec-pause-at-bottom.jpg)
 
 - **Primary:** Hamstrings
 - **Secondary:** Glutes, Lower Back
@@ -792,6 +892,8 @@ _Master the move — Master the move Deadlift:_ Watch the correct form and key t
 
 ## Pistol squats
 
+![Pistol squats](img/pistol-squats.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings, Calves
 - **Equipment:** Body Weight, Bar
@@ -806,6 +908,8 @@ Instructions
 - Drive through the full foot of the standing leg to press back up to the starting position.
 
 ## Rdl + rear delt fly
+
+![Rdl + rear delt fly](img/rdl-rear-delt-fly.jpg)
 
 - **Primary:** Hamstrings
 - **Secondary:** Glutes, Shoulders, Lower Back
@@ -822,6 +926,8 @@ Instructions
 - Keep the torso still and avoid using momentum throughout the movement.
 
 ## Reverse and lateral lunges
+
+![Reverse and lateral lunges](img/reverse-and-lateral-lunges.jpg)
 
 - **Primary:** Glutes
 - **Secondary:** Hamstrings, Quads, Core
@@ -840,6 +946,8 @@ Instructions
 
 ## Reverse Lunges
 
+![Reverse Lunges](img/reverse-lunges.jpg)
+
 - **Primary:** Glutes
 - **Secondary:** Quads, Hamstrings
 - **Equipment:** Body Weight, No Equipment
@@ -854,6 +962,8 @@ Instructions
 - Push through the heel of the front foot to return to the starting position.
 
 ## Romanian deadlift
+
+![Romanian deadlift](img/romanian-deadlift.jpg)
 
 - **Primary:** Hamstrings
 - **Secondary:** Lower Back, Glutes
@@ -872,6 +982,8 @@ _Master the move — Master the move Deadlift:_ Watch the correct form and key t
 
 ## Romanian Deadlifts (Dumbbells)
 
+![Romanian Deadlifts (Dumbbells)](img/romanian-deadlifts-dumbbells.jpg)
+
 - **Primary:** Hamstrings
 - **Secondary:** Glutes, Forearms, Lower Back
 - **Equipment:** Dumbbell
@@ -885,6 +997,8 @@ Instructions
 - Drive the hips forward to return to the upright position.
 
 ## Side kickback
+
+![Side kickback](img/side-kickback.jpg)
 
 - **Primary:** Glutes
 - **Secondary:** Hamstrings, Core
@@ -901,6 +1015,8 @@ Instructions
 
 ## Side lunges
 
+![Side lunges](img/side-lunges.jpg)
+
 - **Primary:** Glutes
 - **Secondary:** Quads, Hamstrings, Core
 - **Equipment:** Body Weight, No Equipment
@@ -915,6 +1031,8 @@ Instructions
 - Keep both feet flat on the floor and toes pointing forward throughout the movement.
 
 ## Single-Leg Calf Raises
+
+![Single-Leg Calf Raises](img/single-leg-calf-raises.jpg)
 
 - **Primary:** Calves
 - **Secondary:** —
@@ -931,6 +1049,8 @@ Instructions
 
 ## Single-leg calf raises with dumbbell
 
+![Single-leg calf raises with dumbbell](img/single-leg-calf-raises-with-dumbbell.jpg)
+
 - **Primary:** Calves
 - **Secondary:** —
 - **Equipment:** Dumbbell, Plate
@@ -945,6 +1065,8 @@ Instructions
 - Keep the standing knee straight but not locked throughout the movement.
 
 ## Single-Leg Hip Thrust
+
+![Single-Leg Hip Thrust](img/single-leg-hip-thrust.jpg)
 
 - **Primary:** Glutes
 - **Secondary:** Hamstrings, Core
@@ -962,6 +1084,8 @@ Instructions
 
 ## Single-Leg RDL Against Wall
 
+![Single-Leg RDL Against Wall](img/single-leg-rdl-against-wall.jpg)
+
 - **Primary:** Hamstrings
 - **Secondary:** Glutes, Core
 - **Equipment:** Plate, Wall Support
@@ -976,6 +1100,8 @@ Instructions
 - Drive through the heel of the standing leg to return to the upright position.
 
 ## Single-leg smith machine deadlift
+
+![Single-leg smith machine deadlift](img/single-leg-smith-machine-deadlift.jpg)
 
 - **Primary:** Glutes
 - **Secondary:** Hamstrings, Lower Back, Core
@@ -994,6 +1120,8 @@ Instructions
 
 ## Single-Leg Wall Sit
 
+![Single-Leg Wall Sit](img/single-leg-wall-sit.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes
 - **Equipment:** Wall Support
@@ -1007,6 +1135,8 @@ Instructions
 - Keep the back flat against the wall and the core tight throughout.
 
 ## Smith Machine Lunges
+
+![Smith Machine Lunges](img/smith-machine-lunges.jpg)
 
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings, Calves
@@ -1022,6 +1152,8 @@ Instructions
 - Push through the heel of the front foot to return to the starting position.
 
 ## Squat + Calf Raises
+
+![Squat + Calf Raises](img/squat-calf-raises.jpg)
 
 - **Primary:** Quads
 - **Secondary:** Calves, Glutes, Core
@@ -1039,6 +1171,8 @@ Instructions
 
 ## Squat + RDL
 
+![Squat + RDL](img/squat-rdl.jpg)
+
 - **Primary:** Glutes
 - **Secondary:** Quads, Hamstrings, Core
 - **Equipment:** Body Weight, No Equipment
@@ -1052,6 +1186,8 @@ Instructions
 - Drive the hips forward to return to the starting position.
 
 ## Squat hip abduction
+
+![Squat hip abduction](img/squat-hip-abduction.jpg)
 
 - **Primary:** Glutes
 - **Secondary:** Quads, Core
@@ -1068,6 +1204,8 @@ Instructions
 
 ## Squat jump
 
+![Squat jump](img/squat-jump.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings, Calves
 - **Equipment:** Body Weight, No Equipment
@@ -1082,6 +1220,8 @@ Instructions
 - Land back into the squat position and repeat without pausing.
 
 ## Squat pulse
+
+![Squat pulse](img/squat-pulse.jpg)
 
 - **Primary:** Quads
 - **Secondary:** Calves, Glutes, Core
@@ -1099,6 +1239,8 @@ Instructions
 
 ## Squat pulses
 
+![Squat pulses](img/squat-pulses.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes, Core
 - **Equipment:** Body Weight, No Equipment
@@ -1115,6 +1257,8 @@ Instructions
 
 ## Squats from Knees
 
+![Squats from Knees](img/squats-from-knees.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings
 - **Equipment:** No Equipment, Body Weight
@@ -1128,6 +1272,8 @@ Instructions
 - Return back down one knee at a time to the kneeling position.
 
 ## Stationary Lunges
+
+![Stationary Lunges](img/stationary-lunges.jpg)
 
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings
@@ -1144,6 +1290,8 @@ Instructions
 
 ## Sumo squat
 
+![Sumo squat](img/sumo-squat.jpg)
+
 - **Primary:** Glutes
 - **Secondary:** Quads, Hamstrings
 - **Equipment:** Plate
@@ -1158,6 +1306,8 @@ Instructions
 - Push through the heels to return to the starting position.
 
 ## Sumo squat with dumbbell
+
+![Sumo squat with dumbbell](img/sumo-squat-with-dumbbell.jpg)
 
 - **Primary:** Glutes
 - **Secondary:** Hamstrings, Quads
@@ -1176,6 +1326,8 @@ Instructions
 
 ## Up and downs squat
 
+![Up and downs squat](img/up-and-downs-squat.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings, Core
 - **Equipment:** Plate
@@ -1192,6 +1344,8 @@ Instructions
 
 ## Wall Sit
 
+![Wall Sit](img/wall-sit.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes
 - **Equipment:** Wall Support, DIY Weight
@@ -1206,6 +1360,8 @@ Setup
 
 ## Wall sit with weight
 
+![Wall sit with weight](img/wall-sit-with-weight.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes, Calves
 - **Equipment:** Wall Support, Plate
@@ -1219,6 +1375,8 @@ Setup
 - Drive through the heel of the elevated foot to push back up to the starting position.
 
 ## Weighted calf raises
+
+![Weighted calf raises](img/weighted-calf-raises.jpg)
 
 - **Primary:** Calves
 - **Secondary:** Glutes, Hamstrings
@@ -1236,6 +1394,8 @@ Instructions
 
 ## Weighted squat pulses
 
+![Weighted squat pulses](img/weighted-squat-pulses.jpg)
+
 - **Primary:** Quads
 - **Secondary:** Glutes, Core
 - **Equipment:** Weighted Backpack
@@ -1251,6 +1411,8 @@ Instructions
 - Continue pulsing for the prescribed time or number of reps.
 
 ## Wide-stance deadlift (barbell or smith machine)
+
+![Wide-stance deadlift (barbell or smith machine)](img/wide-stance-deadlift-barbell-or-smith-machine.jpg)
 
 - **Primary:** Glutes
 - **Secondary:** Lower back, Biceps, Hamstrings
@@ -1268,6 +1430,8 @@ Instructions
 
 ## ​Glute-Focused Hyperextension
 
+![​Glute-Focused Hyperextension](img/glute-focused-hyperextension.jpg)
+
 - **Primary:** Glutes
 - **Secondary:** Hamstrings, Lower Back
 - **Equipment:** Hyperextension Bench
@@ -1283,6 +1447,8 @@ Instructions
 - Keep the movement initiated from the glutes rather than the lower back throughout.
 
 ## ​Squats
+
+![​Squats](img/squats.jpg)
 
 - **Primary:** Quads
 - **Secondary:** Glutes, Hamstrings, Lower Back

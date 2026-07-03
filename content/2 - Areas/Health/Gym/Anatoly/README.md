@@ -10,6 +10,8 @@ Full export of my AnatolyFit program, meal plans, and exercise library.
 4. [[04-Meal-Plans]] — all meal plans + sample meals
 5. [[05-Supplements-and-Nutrition]] — supplements & nutrition guidance
 6. [[_Index|Exercise Library]] — 240 movements with how-to
+7. [[06-Other-Workouts]] — core/abs circuits (8 workouts)
+8. [[07-Strong-Back-Program]] — 12-workout back program
 
 _Source: AnatolyFit (app.anatolyfit.com), personal account._
 

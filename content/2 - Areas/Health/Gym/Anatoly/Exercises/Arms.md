@@ -4,6 +4,8 @@
 
 ## Alternative Arm Dumbbell Curls
 
+![Alternative Arm Dumbbell Curls](img/alternative-arm-dumbbell-curls.jpg)
+
 - **Primary:** Biceps
 - **Secondary:** Forearms, Core
 - **Equipment:** Dumbbell
@@ -20,6 +22,8 @@ Instructions
 
 ## Banded triceps extension
 
+![Banded triceps extension](img/banded-triceps-extension.jpg)
+
 - **Primary:** Triceps
 - **Secondary:** Core, Shoulders
 - **Equipment:** Long Band
@@ -34,6 +38,8 @@ Instructions
 - Avoid rotating your torso — isolate the movement in the working arm.
 
 ## Barbell curls
+
+![Barbell curls](img/barbell-curls.jpg)
 
 - **Primary:** Biceps
 - **Secondary:** Forearms
@@ -51,6 +57,8 @@ Instructions
 
 ## Barbell Curls
 
+![Barbell Curls](img/barbell-curls.jpg)
+
 - **Primary:** Biceps
 - **Secondary:** Forearms
 - **Equipment:** EZ Bar
@@ -66,6 +74,8 @@ Instructions
 - Avoid swinging the torso or using momentum to lift the weight.
 
 ## Barbell wrist curls
+
+![Barbell wrist curls](img/barbell-wrist-curls.jpg)
 
 - **Primary:** Forearms
 - **Secondary:** Biceps
@@ -83,6 +93,8 @@ Instructions
 
 ## Behind-the-back wrist curls
 
+![Behind-the-back wrist curls](img/behind-the-back-wrist-curls.jpg)
+
 - **Primary:** Forearms
 - **Secondary:** Biceps
 - **Equipment:** Barbell
@@ -96,6 +108,8 @@ Instructions
 - Squeeze at the top, lower with control, and repeat.
 
 ## Biceps curls
+
+![Biceps curls](img/biceps-curls.jpg)
 
 - **Primary:** Biceps
 - **Secondary:** Forearms, Shoulders
@@ -112,6 +126,8 @@ Instructions:
 - Slowly lower yourself to the starting position and repeat the exercise as many times as specified.
 
 ## Biceps curls (with weight)
+
+![Biceps curls (with weight)](img/biceps-curls-with-weight.jpg)
 
 - **Primary:** Biceps
 - **Secondary:** Forearms, Core
@@ -130,6 +146,8 @@ Instructions
 
 ## Close-grip bench press
 
+![Close-grip bench press](img/close-grip-bench-press.jpg)
+
 - **Primary:** Triceps
 - **Secondary:** Chest, Shoulders
 - **Equipment:** Bench Press Rack
@@ -147,6 +165,8 @@ _Master the move — Master the move Bench press:_ Watch the correct form and ke
 
 ## Dead hang
 
+![Dead hang](img/dead-hang.jpg)
+
 - **Primary:** Forearms
 - **Secondary:** Shoulders, Back
 - **Equipment:** Pull Up Bar
@@ -163,6 +183,8 @@ Instructions
 
 ## Diamond Push-Ups
 
+![Diamond Push-Ups](img/diamond-push-ups.jpg)
+
 - **Primary:** Triceps
 - **Secondary:** Chest, Shoulders
 - **Equipment:** No Equipment, Body Weight
@@ -178,6 +200,8 @@ Instructions
 
 ## Dips
 
+![Dips](img/dips.jpg)
+
 - **Primary:** Triceps
 - **Secondary:** Chest, Shoulders
 - **Equipment:** Dip Machine
@@ -192,6 +216,8 @@ Instructions
 - Press through the palms to extend the arms and push your body back up to the starting position.
 
 ## Dips
+
+![Dips](img/dips.jpg)
 
 - **Primary:** Triceps
 - **Secondary:** Chest, Shoulders
@@ -208,6 +234,8 @@ Instructions
 
 ## Elevated Diamond Push-Ups
 
+![Elevated Diamond Push-Ups](img/elevated-diamond-push-ups.jpg)
+
 - **Primary:** Triceps
 - **Secondary:** Chest, Shoulders
 - **Equipment:** Box
@@ -222,6 +250,8 @@ Instructions
 - Keep the elbows pointing straight back — avoid flaring them out to the sides.
 
 ## French press on bar
+
+![French press on bar](img/french-press-on-bar.jpg)
 
 - **Primary:** Triceps
 - **Secondary:** Shoulders, Core
@@ -238,6 +268,8 @@ Instructions
 
 ## Hammer curls
 
+![Hammer curls](img/hammer-curls.jpg)
+
 - **Primary:** Biceps
 - **Secondary:** Forearms
 - **Equipment:** Dumbbell
@@ -252,6 +284,8 @@ Instructions
 - Lower the dumbbell in a controlled manner back to the starting position, fully extending the arm.
 
 ## Low bar triceps push up
+
+![Low bar triceps push up](img/low-bar-triceps-push-up.jpg)
 
 - **Primary:** Triceps
 - **Secondary:** Chest, Shoulders
@@ -268,6 +302,8 @@ Instructions
 
 ## Overhead Tricep Extension (Dumbbell)
 
+![Overhead Tricep Extension (Dumbbell)](img/overhead-tricep-extension-dumbbell.jpg)
+
 - **Primary:** Triceps
 - **Secondary:** Shoulders
 - **Equipment:** Dumbbell, Bench Incline
@@ -283,6 +319,8 @@ Instructions
 
 ## Plate holds standing
 
+![Plate holds standing](img/plate-holds-standing.jpg)
+
 - **Primary:** Forearms
 - **Secondary:** Shoulders, Core
 - **Equipment:** Plate
@@ -297,6 +335,8 @@ Instructions
 - Breathe steadily and sustain full grip tension for the prescribed time.
 
 ## Reverse barbell curls
+
+![Reverse barbell curls](img/reverse-barbell-curls.jpg)
 
 - **Primary:** Forearms
 - **Secondary:** Biceps
@@ -314,6 +354,8 @@ Instructions
 
 ## Rope triceps pushdowns
 
+![Rope triceps pushdowns](img/rope-triceps-pushdowns.jpg)
+
 - **Primary:** Triceps
 - **Secondary:** Forearms
 - **Equipment:** 4 Stack Machine (Cable)
@@ -330,6 +372,8 @@ Instructions
 
 ## Seated dumbbell French press
 
+![Seated dumbbell French press](img/seated-dumbbell-french-press.jpg)
+
 - **Primary:** Triceps
 - **Secondary:** Forearms
 - **Equipment:** Dumbbell, Bench Incline
@@ -344,6 +388,8 @@ Instructions
 - Keep the elbows pointing forward and avoid letting them flare out to the sides.
 
 ## Simultaneous hammer curls
+
+![Simultaneous hammer curls](img/simultaneous-hammer-curls.jpg)
 
 - **Primary:** Biceps
 - **Secondary:** Forearms
@@ -360,6 +406,8 @@ Instructions
 
 ## Single Arm Triceps Extension
 
+![Single Arm Triceps Extension](img/single-arm-triceps-extension.jpg)
+
 - **Primary:** Triceps
 - **Secondary:** Shoulders, Core
 - **Equipment:** Weighted Backpack
@@ -375,6 +423,8 @@ Instructions
 
 ## Sphinx Push-Ups
 
+![Sphinx Push-Ups](img/sphinx-push-ups.jpg)
+
 - **Primary:** Triceps
 - **Secondary:** Shoulders, Chest, Core
 - **Equipment:** No Equipment, Body Weight
@@ -388,6 +438,8 @@ Instructions
 - Lower back down onto the forearms one arm at a time, returning to the starting position.
 
 ## Supinated dumbbell curls
+
+![Supinated dumbbell curls](img/supinated-dumbbell-curls.jpg)
 
 - **Primary:** Biceps
 - **Secondary:** Forearms, Shoulders
@@ -405,6 +457,8 @@ Instructions
 
 ## Supinated dumbbell curls on incline bench
 
+![Supinated dumbbell curls on incline bench](img/supinated-dumbbell-curls-on-incline-bench.jpg)
+
 - **Primary:** Biceps
 - **Secondary:** Forearms, Shoulders
 - **Equipment:** Dumbbell, Bench Incline
@@ -421,6 +475,8 @@ Instructions
 
 ## Tricep dips
 
+![Tricep dips](img/tricep-dips.jpg)
+
 - **Primary:** Triceps
 - **Secondary:** Shoulders, Chest
 - **Equipment:** Body Weight, No Equipment
@@ -435,6 +491,8 @@ Instructions
 - Maintain controlled movement throughout and avoid shrugging your shoulders.
 
 ## Tricep extensions
+
+![Tricep extensions](img/tricep-extensions.jpg)
 
 - **Primary:** Triceps
 - **Secondary:** Shoulders, Core
@@ -451,6 +509,8 @@ Instructions
 
 ## Tricep push-up
 
+![Tricep push-up](img/tricep-push-up.jpg)
+
 - **Primary:** Triceps
 - **Secondary:** Chest, Shoulders
 - **Equipment:** Body Weight, No Equipment
@@ -465,6 +525,8 @@ Instructions
 - Keep the elbows pointing straight back — avoid flaring them out to the sides.
 
 ## Tricep Pushdowns
+
+![Tricep Pushdowns](img/tricep-pushdowns.jpg)
 
 - **Primary:** Triceps
 - **Secondary:** Shoulders

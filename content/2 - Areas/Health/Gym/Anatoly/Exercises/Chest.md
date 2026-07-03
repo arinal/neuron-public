@@ -4,6 +4,8 @@
 
 ## Alligator Push-Ups
 
+![Alligator Push-Ups](img/alligator-push-ups.jpg)
+
 - **Primary:** Chest
 - **Secondary:** Triceps, Shoulders, Core
 - **Equipment:** Body Weight, No Equipment
@@ -15,6 +17,8 @@ Hands rotated backward in push-up position.
 2. Push back up, keeping elbows close.
 
 ## Alternating incline dumbbell press
+
+![Alternating incline dumbbell press](img/alternating-incline-dumbbell-press.jpg)
 
 - **Primary:** Chest
 - **Secondary:** Shoulders, Triceps
@@ -32,6 +36,8 @@ Instructions
 
 ## Archer Push-Ups
 
+![Archer Push-Ups](img/archer-push-ups.jpg)
+
 - **Primary:** Chest
 - **Secondary:** Triceps, Shoulders, Core
 - **Equipment:** No Equipment, Body Weight
@@ -47,6 +53,8 @@ Instructions
 
 ## Bench press
 
+![Bench press](img/bench-press.jpg)
+
 - **Primary:** Chest
 - **Secondary:** Triceps, Shoulders
 - **Equipment:** Barbell, Bench
@@ -61,6 +69,8 @@ Instructions
 - Press the bar explosively back up in a slight diagonal path toward the starting position.
 
 ## Bench press (1–2 sec pause on the chest)
+
+![Bench press (1–2 sec pause on the chest)](img/bench-press-1-2-sec-pause-on-the-chest.jpg)
 
 - **Primary:** Chest
 - **Secondary:** Triceps, Core
@@ -80,6 +90,8 @@ _Master the move — Master the move Bench press:_ Watch the correct form and ke
 
 ## Cable chest fly
 
+![Cable chest fly](img/cable-chest-fly.jpg)
+
 - **Primary:** Chest
 - **Secondary:** Shoulders
 - **Equipment:** DAP Machine (Cable)
@@ -94,6 +106,8 @@ Instructions
 - Slowly reverse the movement, allowing the arms to open back out to the starting position in a controlled arc.
 
 ## Clap push-ups
+
+![Clap push-ups](img/clap-push-ups.jpg)
 
 - **Primary:** Chest
 - **Secondary:** Triceps, Shoulders
@@ -110,6 +124,8 @@ Instructions
 
 ## Classic Push up
 
+![Classic Push up](img/classic-push-up.jpg)
+
 - **Primary:** Chest
 - **Secondary:** Triceps, Shoulders, Core
 - **Equipment:** Body Weight, No Equipment
@@ -124,6 +140,8 @@ Instructions
 - Keep the core engaged, cross the legs at the knees and direct the support through the knees.
 
 ## Decline bench press
+
+![Decline bench press](img/decline-bench-press.jpg)
 
 - **Primary:** Chest
 - **Secondary:** Triceps, Shoulders
@@ -142,6 +160,8 @@ _Master the move — Master the move Bench press:_ Watch the correct form and ke
 
 ## Dumbbell bench press
 
+![Dumbbell bench press](img/dumbbell-bench-press.jpg)
+
 - **Primary:** Chest
 - **Secondary:** Shoulders, Triceps
 - **Equipment:** Dumbbell, Bench
@@ -157,6 +177,8 @@ _Master the move — Master the move Bench press:_ Watch the correct form and ke
 - Feel a slight stretch in your chest at the bottom before pressing back up.
 
 ## Dumbbell pullover
+
+![Dumbbell pullover](img/dumbbell-pullover.jpg)
 
 - **Primary:** Chest
 - **Secondary:** Back, Triceps
@@ -174,6 +196,8 @@ Instructions
 
 ## Elevated Wide Push-Ups
 
+![Elevated Wide Push-Ups](img/elevated-wide-push-ups.jpg)
+
 - **Primary:** Chest
 - **Secondary:** Shoulders, Triceps
 - **Equipment:** Box
@@ -187,6 +211,8 @@ Instructions
 - Press through the palms to push back up to the starting position.
 
 ## Forward-Leaning Dips
+
+![Forward-Leaning Dips](img/forward-leaning-dips.jpg)
 
 - **Primary:** Chest
 - **Secondary:** Triceps, Shoulders, Core
@@ -206,6 +232,8 @@ Instructions
 
 ## Incline bench press with 1-sec pause
 
+![Incline bench press with 1-sec pause](img/incline-bench-press-with-1-sec-pause.jpg)
+
 - **Primary:** Chest
 - **Secondary:** Shoulders, Triceps
 - **Equipment:** Incline Bench Rack
@@ -223,6 +251,8 @@ _Master the move — Master the move Bench press:_ Watch the correct form and ke
 
 ## Incline dumbbell bench press
 
+![Incline dumbbell bench press](img/incline-dumbbell-bench-press.jpg)
+
 - **Primary:** Chest
 - **Secondary:** Shoulders, Triceps
 - **Equipment:** Dumbbell, Bench Incline
@@ -238,6 +268,8 @@ Instructions
 
 ## Knee Push-Ups
 
+![Knee Push-Ups](img/knee-push-ups.jpg)
+
 - **Primary:** Chest
 - **Secondary:** Triceps, Shoulders, Core
 - **Equipment:** No Equipment, Body Weight
@@ -252,6 +284,8 @@ Instructions
 - Keep the core engaged, cross the legs at the knees and direct the support through the knees.
 
 ## Negative push-ups
+
+![Negative push-ups](img/negative-push-ups.jpg)
 
 - **Primary:** Chest
 - **Secondary:** Triceps, Shoulders, Core
@@ -269,6 +303,8 @@ Instructions
 
 ## Negative Push-Ups on Knees
 
+![Negative Push-Ups on Knees](img/negative-push-ups-on-knees.jpg)
+
 - **Primary:** Chest
 - **Secondary:** Triceps, Shoulders, Core
 - **Equipment:** No Equipment, Body Weight
@@ -285,6 +321,8 @@ Instructions
 
 ## Pec Deck
 
+![Pec Deck](img/pec-deck.jpg)
+
 - **Primary:** Chest
 - **Secondary:** Shoulders, Triceps
 - **Equipment:** Pec Deck Machine
@@ -300,6 +338,8 @@ Instructions
 
 ## Push-ups
 
+![Push-ups](img/push-ups.jpg)
+
 - **Primary:** Chest
 - **Secondary:** Triceps, Shoulders
 - **Equipment:** No Equipment, Body Weight
@@ -314,6 +354,8 @@ Instructions
 
 ## Push-Ups on Stone/Surface
 
+![Push-Ups on Stone/Surface](img/push-ups-on-stone-surface.jpg)
+
 - **Primary:** Chest
 - **Secondary:** Triceps, Shoulders, Core
 - **Equipment:** Kettlebell
@@ -326,6 +368,8 @@ Place hands on elevated hard surface.
 3. Repeat.
 
 ## Svend press
+
+![Svend press](img/svend-press.jpg)
 
 - **Primary:** Chest
 - **Secondary:** Shoulders, Triceps, Core
@@ -343,6 +387,8 @@ Place hands on elevated hard surface.
 
 ## Svend press
 
+![Svend press](img/svend-press.jpg)
+
 - **Primary:** Chest
 - **Secondary:** Shoulders, Triceps
 - **Equipment:** Plate
@@ -358,6 +404,8 @@ Place hands on elevated hard surface.
 - Maintain continuous pressing force between your palms at all times.
 
 ## Tempo Push-Ups
+
+![Tempo Push-Ups](img/tempo-push-ups.jpg)
 
 - **Primary:** Chest
 - **Secondary:** Triceps, Shoulders
@@ -376,6 +424,8 @@ Instructions
 
 ## Wide-grip push-ups
 
+![Wide-grip push-ups](img/wide-grip-push-ups.jpg)
+
 - **Primary:** Chest
 - **Secondary:** Shoulders, Triceps
 - **Equipment:** No Equipment, Body Weight
@@ -391,6 +441,8 @@ Instructions
 - Keep the hips level and the body rigid on every rep — do not let them sag or rise.
 
 ## ​Dumbbell bench press
+
+![​Dumbbell bench press](img/dumbbell-bench-press.jpg)
 
 - **Primary:** Chest
 - **Secondary:** Triceps, Shoulders

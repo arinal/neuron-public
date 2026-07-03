@@ -4,6 +4,8 @@
 
 ## Archer Pull-Ups
 
+![Archer Pull-Ups](img/archer-pull-ups.jpg)
+
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms, Core
 - **Equipment:** Pull Up Bar
@@ -19,6 +21,8 @@ Instructions
 - Repeat the movement pulling toward the opposite arm on the next rep.
 
 ## Assisted pull-ups (gravitron)
+
+![Assisted pull-ups (gravitron)](img/assisted-pull-ups-gravitron.jpg)
 
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms
@@ -36,6 +40,8 @@ Instructions
 
 ## Back extensions (holding plates)
 
+![Back extensions (holding plates)](img/back-extensions-holding-plates.jpg)
+
 - **Primary:** Lower Back
 - **Secondary:** Glutes, Hamstrings
 - **Equipment:** GHD Machine
@@ -50,6 +56,8 @@ Instructions
 - Lower the torso in a controlled manner back down to the starting position.
 
 ## Barbell hyperextensions
+
+![Barbell hyperextensions](img/barbell-hyperextensions.jpg)
 
 - **Primary:** Lower Back
 - **Secondary:** Hamstrings, Glutes
@@ -66,6 +74,8 @@ Instructions
 
 ## Behind-the-Neck Pull-Ups
 
+![Behind-the-Neck Pull-Ups](img/behind-the-neck-pull-ups.jpg)
+
 - **Primary:** Back
 - **Secondary:** Shoulders, Biceps, Forearms
 - **Equipment:** Pull Up Bar
@@ -80,6 +90,8 @@ Instructions
 - Lower the body back down slowly and with control to the full hang.
 
 ## Bent-over barbell row (overhand grip)
+
+![Bent-over barbell row (overhand grip)](img/bent-over-barbell-row-overhand-grip.jpg)
 
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms, Lower Back
@@ -96,6 +108,8 @@ Instructions
 
 ## Bent-over rows with dumbbells
 
+![Bent-over rows with dumbbells](img/bent-over-rows-with-dumbbells.jpg)
+
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms, Lower Back
 - **Equipment:** Dumbbell
@@ -110,6 +124,8 @@ Instructions
 - Keep the torso still and avoid using momentum during the pull.
 
 ## Bodyweight hyperextensions
+
+![Bodyweight hyperextensions](img/bodyweight-hyperextensions.jpg)
 
 - **Primary:** Lower Back
 - **Secondary:** Glutes, Hamstrings
@@ -127,6 +143,8 @@ Instructions
 
 ## Chin-Ups (Close Grip)
 
+![Chin-Ups (Close Grip)](img/chin-ups-close-grip.jpg)
+
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms
 - **Equipment:** Pull Up Bar
@@ -141,6 +159,8 @@ Instructions
 - Pause briefly at the top, then lower yourself in a controlled manner back to the dead hang.
 
 ## Classic Pull-Ups
+
+![Classic Pull-Ups](img/classic-pull-ups.jpg)
 
 - **Primary:** Back
 - **Secondary:** Biceps, Shoulders
@@ -159,6 +179,8 @@ Instructions
 
 ## Close-grip lat pulldown
 
+![Close-grip lat pulldown](img/close-grip-lat-pulldown.jpg)
+
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms
 - **Equipment:** Lat Pulldown Machine
@@ -173,6 +195,8 @@ Instructions
 - Pause briefly at the peak contraction, then extend the arms in a controlled manner back to the starting position.
 
 ## Front Lever Raises
+
+![Front Lever Raises](img/front-lever-raises.jpg)
 
 - **Primary:** Back
 - **Secondary:** Shoulders, Biceps, Core
@@ -189,6 +213,8 @@ Instructions
 
 ## Inverted Rows (Overhand Grip)
 
+![Inverted Rows (Overhand Grip)](img/inverted-rows-overhand-grip.jpg)
+
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms
 - **Equipment:** Safety Pins, Bar
@@ -203,6 +229,8 @@ Instructions
 - Lower yourself in a controlled manner back to the starting position with arms fully extended.
 
 ## Inverted Rows (Underhand Grip)
+
+![Inverted Rows (Underhand Grip)](img/inverted-rows-underhand-grip.jpg)
 
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms
@@ -219,6 +247,8 @@ Instructions
 
 ## Lat Pulldowns
 
+![Lat Pulldowns](img/lat-pulldowns.jpg)
+
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms
 - **Equipment:** Lat Pulldown Machine
@@ -233,6 +263,8 @@ Instructions
 - Keep the torso upright and avoid leaning back excessively during the pull.
 
 ## Military-Grip Pull-Ups
+
+![Military-Grip Pull-Ups](img/military-grip-pull-ups.jpg)
 
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms, Shoulders
@@ -249,6 +281,8 @@ Instructions
 
 ## Narrow Pull-Ups
 
+![Narrow Pull-Ups](img/narrow-pull-ups.jpg)
+
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms
 - **Equipment:** Pull Up Bar
@@ -263,6 +297,8 @@ Instructions
 - Return to a full hang with arms fully extended before the next rep.
 
 ## Narrow-Grip Lat Pulldown
+
+![Narrow-Grip Lat Pulldown](img/narrow-grip-lat-pulldown.jpg)
 
 - **Primary:** Back
 - **Secondary:** Shoulders, Biceps
@@ -280,6 +316,8 @@ Instructions
 
 ## Neutral-Grip Pull-Ups (Biceps Focus)
 
+![Neutral-Grip Pull-Ups (Biceps Focus)](img/neutral-grip-pull-ups-biceps-focus.jpg)
+
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms
 - **Equipment:** Pull Up Bar
@@ -295,6 +333,8 @@ Instructions
 
 ## One-arm dumbbell row
 
+![One-arm dumbbell row](img/one-arm-dumbbell-row.jpg)
+
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms
 - **Equipment:** Dumbbell, Bench
@@ -309,6 +349,8 @@ Equipment: Dumbbell
 3. Lower under control and repeat.
 
 ## Overhand-Grip Pull-Ups
+
+![Overhand-Grip Pull-Ups](img/overhand-grip-pull-ups.jpg)
 
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms
@@ -327,6 +369,8 @@ Instructions
 
 ## Prone lat pulldowns
 
+![Prone lat pulldowns](img/prone-lat-pulldowns.jpg)
+
 - **Primary:** Back
 - **Secondary:** Biceps, Shoulders
 - **Equipment:** Body Weight, No Equipment
@@ -343,6 +387,8 @@ Instructions
 
 ## Pull-Up Hold (Isometric)
 
+![Pull-Up Hold (Isometric)](img/pull-up-hold-isometric.jpg)
+
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms
 - **Equipment:** Pull Up Bar
@@ -358,6 +404,8 @@ Instructions
 
 ## Pull-ups or Lat pulldown (wide grip)
 
+![Pull-ups or Lat pulldown (wide grip)](img/pull-ups-or-lat-pulldown-wide-grip.jpg)
+
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms
 - **Equipment:** Lat Pulldown Machine
@@ -372,6 +420,8 @@ Instructions
 - Pause briefly at the peak contraction, then extend the arms in a controlled manner back to the starting position.
 
 ## Rack pulls deadlift (5–7 cm elevation)
+
+![Rack pulls deadlift (5–7 cm elevation)](img/rack-pulls-deadlift-5-7-cm-elevation.jpg)
 
 - **Primary:** Back
 - **Secondary:** Glutes, Hamstrings, Forearms
@@ -391,6 +441,8 @@ _Master the move — Master the move Deadlift:_ Watch the correct form and key t
 
 ## Scapular Shrugs on Bar
 
+![Scapular Shrugs on Bar](img/scapular-shrugs-on-bar.jpg)
+
 - **Primary:** Back
 - **Secondary:** Shoulders
 - **Equipment:** Pull Up Bar
@@ -405,6 +457,8 @@ Instructions
 - Keep the arms fully straight throughout — only the shoulder blades move.
 
 ## Seated cable row
+
+![Seated cable row](img/seated-cable-row.jpg)
 
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms, Shoulders
@@ -424,6 +478,8 @@ Instructions
 
 ## Seated cable row
 
+![Seated cable row](img/seated-cable-row.jpg)
+
 - **Primary:** Back
 - **Secondary:** Biceps, Shoulders, Core
 - **Equipment:** Long Band
@@ -438,6 +494,8 @@ Instructions
 - Slowly extend the arm back to the starting position with control.
 
 ## Seated machine row
+
+![Seated machine row](img/seated-machine-row.jpg)
 
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms
@@ -454,6 +512,8 @@ Instructions
 
 ## Seated row (horizontal row machine)
 
+![Seated row (horizontal row machine)](img/seated-row-horizontal-row-machine.jpg)
+
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms
 - **Equipment:** One Arm Machine Row
@@ -468,6 +528,8 @@ Instructions
 - Pause briefly at the peak contraction, then extend the arms in a controlled manner back to the starting position.
 
 ## Single-arm dumbell row
+
+![Single-arm dumbell row](img/single-arm-dumbell-row.jpg)
 
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms, Core
@@ -484,6 +546,8 @@ Instructions
 
 ## Standing low cable row
 
+![Standing low cable row](img/standing-low-cable-row.jpg)
+
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms
 - **Equipment:** 4 Stack Machine (Cable)
@@ -498,6 +562,8 @@ Instructions
 - Pause briefly at the peak contraction, then extend the arms in a controlled manner back to the starting position.
 
 ## Static Pull-Up Hold (90° Elbow)
+
+![Static Pull-Up Hold (90° Elbow)](img/static-pull-up-hold-90-elbow.jpg)
 
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms, Core
@@ -517,6 +583,8 @@ Instructions
 
 ## Superman
 
+![Superman](img/superman.jpg)
+
 - **Primary:** Lower Back
 - **Secondary:** Hamstrings, Glutes, Shoulders
 - **Equipment:** Body Weight, No Equipment
@@ -532,6 +600,8 @@ Instructions
 
 ## Superman
 
+![Superman](img/superman.jpg)
+
 - **Primary:** Lower Back
 - **Secondary:** Hamstrings, Glutes, Shoulders
 - **Equipment:** Body Weight, No Equipment
@@ -546,6 +616,8 @@ Instructions
 - Lower everything back down to the mat slowly and with control.
 
 ## Swimmer
+
+![Swimmer](img/swimmer.jpg)
 
 - **Primary:** Lower Back
 - **Secondary:** Glutes, Core, Shoulders
@@ -563,6 +635,8 @@ Instructions
 
 ## Wide-Grip Pull-Ups
 
+![Wide-Grip Pull-Ups](img/wide-grip-pull-ups.jpg)
+
 - **Primary:** Back
 - **Secondary:** Biceps, Core, Shoulders
 - **Equipment:** Pull Up Bar, Body Weight
@@ -578,6 +652,8 @@ Instructions
 - Avoid swinging or using momentum — keep the movement strict throughout.
 
 ## Wide-Grip Pull-Ups (with Pause)
+
+![Wide-Grip Pull-Ups (with Pause)](img/wide-grip-pull-ups-with-pause.jpg)
 
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms, Core
@@ -596,6 +672,8 @@ Equipment: Pull-up bar
 6. Repeat for the required number of reps.
 
 ## Wide-grip seated cable row
+
+![Wide-grip seated cable row](img/wide-grip-seated-cable-row.jpg)
 
 - **Primary:** Back
 - **Secondary:** Biceps, Forearms, Shoulders

@@ -4,6 +4,8 @@
 
 ## Box jumps
 
+![Box jumps](img/box-jumps.jpg)
+
 - **Primary:** Full Body
 - **Secondary:** Quads, Glutes, Calves
 - **Equipment:** Box
@@ -19,6 +21,8 @@ Instructions
 
 ## Jumping Jacks
 
+![Jumping Jacks](img/jumping-jacks.jpg)
+
 - **Primary:** Full body
 - **Secondary:** Shoulders, Quads, Calves
 - **Equipment:** Body Weight, No Equipment
@@ -32,6 +36,8 @@ Instructions
 - Jump the feet back together while lowering the arms back down to the sides.
 
 ## Mountain Climbers
+
+![Mountain Climbers](img/mountain-climbers.jpg)
 
 - **Primary:** Full Body
 - **Secondary:** Quads, Shoulders, Calves
@@ -49,6 +55,8 @@ Instructions
 
 ## Push-Up + Superman
 
+![Push-Up + Superman](img/push-up-superman.jpg)
+
 - **Primary:** Full Body
 - **Secondary:** Chest, Lower Back, Core
 - **Equipment:** Body Weight, No Equipment
@@ -63,6 +71,8 @@ Instructions
 - Hold for a second, lower, and push back up into plank to repeat.
 
 ## Running in Place
+
+![Running in Place](img/running-in-place.jpg)
 
 - **Primary:** Full Body
 - **Secondary:** Calves, Quads, Core
@@ -79,6 +89,8 @@ Instructions
 
 ## Squat + Press
 
+![Squat + Press](img/squat-press.jpg)
+
 - **Primary:** Full Body
 - **Secondary:** Quads, Glutes, Shoulders
 - **Equipment:** Plate Band
@@ -93,6 +105,8 @@ Equipment: Dumbbells or resistance bands
 4. Lower weights and repeat.
 
 ## Vertical jumps
+
+![Vertical jumps](img/vertical-jumps.jpg)
 
 - **Primary:** Full Body
 - **Secondary:** Quads, Glutes, Calves
