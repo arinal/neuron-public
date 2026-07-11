@@ -25,7 +25,26 @@ note: King-by-king. Each ruler gets the documentary's own detail, an event illus
 >
 > Reading the trees: a **blue box** = the reigning ruler; **👑** = crowned Emperor (not just German king). Yellow = German kings, blue = France, green = Italy, orange = Burgundy.
 >
-> ⚠️ **Part 1 only** — ends on the eve of the Reformation. Where the documentary skips a ruler that the family tree includes, that's noted. The Merovingians predate the tree (which begins at Charlemagne).
+> ⚠️ **Part 1 only** — ends on the eve of the Reformation. Where the documentary skips a ruler that the family tree includes, that's noted. The Merovingians predate the tree (which begins at Charlemagne), and a **pre-royal prologue** (Germania before 481) opens the note.
+
+---
+
+## Before the Kings — Germania (pre-481)
+*(No kings yet, and long before the UsefulCharts family tree. This is the world the Frankish monarchy grew out of — a prologue the documentary spends its first nine minutes on.)*
+
+**"Germany" is a Roman name.** *Deutschland* to its own people; the Romans called the lands east of the **Rhine** *Germania*. From the start this was never the history of one nation but of many German peoples — a disunity that recurs across the whole story. Modern humans reached the area ~35,000 years ago, but the **Germanic peoples** themselves arrived only ~3,000 years ago, migrating south from **Scandinavia and northern Germany** as the climate cooled. As they spread they bordered **Celts, Slavs, Baltic peoples and Scythians**, and their languages and culture drifted apart from the peoples further north.
+
+Written records are scarce — most of what we know before Roman contact comes from archaeology, linguistics and genetics. The earliest fragments are from **Pytheas of Massalia**, a Greek explorer of the 3rd century BC. The first serious contact was the **Cimbrian War (113–101 BC)**, when the Cimbri, Teutones and Ambrones pushed south and were defeated by Rome — the opening of a long, intense relationship.
+
+**Julius Caesar** was the first to call them *Germani* — a geographic label more than an ethnic one, lumping together diverse, frequently warring tribes across the Rhine. He described them as barbarians without towns or cities, living on primitive subsistence farming. Their **paganism** resembled Norse mythology, worshipping gods like **Mani, Tiw, Woden, Thunor and Frig** — names that survive in our weekdays (Monday, Tuesday, Wednesday, Thursday, Friday), later carried to England by the Anglo-Saxons. **Tacitus** filled in the picture: a large, red-haired, blue-eyed people spread across some 50 tribes.
+
+### Arminius and the Teutoburg Forest (9 AD)
+Under **Augustus**, Rome tried to absorb Germania — but the thick forests and marshes were a logistical nightmare, utterly unlike Gaul. Rome taxed the tribes, confiscated weapons, imposed its law, and took noblemen's sons as hostages to be **raised as Romans** and sent home loyal. It backfired spectacularly. One such Romanised German, **Arminius**, son of a Cherusci chief and an officer in the Roman army, defected — and used his knowledge of Roman tactics against them. In **September 9 AD** he lured the legions of **Publius Quinctilius Varus** into ambush near Kalkriese: the **Battle of the Teutoburg Forest**, where ~20,000 Romans were annihilated. Rome abandoned its designs on *Magna Germania* for good, halting the Romanisation of Germany. Arminius — hailed by some as **Germany's first hero** — dreamed of uniting the tribes but was murdered by rivals before any German nation could form. Germania fell back into disunity: *Germania* was a Roman idea, alive in Roman minds but not yet in the hearts of the peoples living there.
+![[germany-p1-01-arminius.jpg]]
+*Arminius, the Romanised Cheruscan who destroyed Varus's legions in the Teutoburg Forest — "Germany's first hero."*
+
+### Migration, Rome's fall, and the rise of the Franks
+In the 2nd–3rd centuries, as Rome decayed, the tribes coalesced and expanded — **Goths, Vandals, Franks, Alemanni, Marcomanni, Bavarii, Angles, Saxons, Lombards**. The **Goths** were the most troublesome, raiding and destabilising the empire. In the 4th century the **Huns** pushed westward, forcing the Germanic peoples into Roman territory; too weak to stop them, Rome tried to integrate them, and its army came to be majority-Germanic. Many were **Christianised** — the Bible was translated into **Gothic around 350 AD**. As the empire fell, Germanic rulers took over many successor states (some as far as North Africa); most assimilated into local populations, but the **Anglo-Saxon** settlement of England left a permanent mark. Out of these post-Roman conflicts came greater cohesion among the Germans. By the late 5th century, in the west and south, **Franks, Frisians, Bavarians, Saxons, Alemanni and Thuringians** were becoming recognisably German — and power was centring on the **Franks** under **Clovis I**, where the king-by-king story properly begins.
 
 ---
 
