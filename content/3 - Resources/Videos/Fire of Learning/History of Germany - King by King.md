@@ -1,8 +1,9 @@
 ---
-id: fol-history-of-germany-p1-kings
+id: fol-history-of-germany-kings
 aliases:
   - History of Germany King by King
-  - German Kings Part 1
+  - German Kings
+  - History of Germany Documentary Summary
 tags:
   - history
   - germany
@@ -13,19 +14,22 @@ tags:
   - useful-charts
   - public
 sources:
-  - https://youtu.be/0ZR9B2KIJBI  # Fire of Learning — narrative & event art
-  - https://youtu.be/WAsOMYp9k6c  # UsefulCharts — family tree
-scope: Ancient Germanic tribes → eve of the Reformation (~1437)
-summarised: 2026-07-03
-note: King-by-king. Each ruler gets the documentary's own detail, an event illustration, and their place in the family tree.
+  - https://youtu.be/0ZR9B2KIJBI  # Fire of Learning — History of Germany (Part 1, to the Reformation)
+  - https://youtu.be/rF_V41lyqsY   # Fire of Learning — The Thirty Years' War to WWI (Part 2)
+  - https://youtu.be/WAsOMYp9k6c   # UsefulCharts — Family Tree of the Holy Roman Emperors
+scope: Ancient Germanic tribes → Thirty Years' War → Austria vs Prussia → German unification → WWI (1918)
+summarised: 2026-07-11
+note: A single ruler-by-ruler walk through German history, from the Germanic tribes to the fall of the German Empire in 1918. Fuses two Fire of Learning documentaries with the UsefulCharts Holy Roman Emperors family tree. Each ruler gets the documentary's own detail, an event illustration, and their place in the family tree.
 ---
-# History of Germany — King by King (Part 1)
+# History of Germany — King by King
 
-> A ruler-by-ruler walk through German history to the eve of the Reformation, told at the level of detail in the Fire of Learning documentary. For **each king**: what the documentary actually says about them, an **illustration of a key event**, and their **place in the family tree** (how they inherited — son, brother, nephew, cousin, or elected outsider).
+> A ruler-by-ruler walk through German history, from the earliest Germanic tribes to the end of the German Empire in 1918, told at the level of detail in the Fire of Learning documentaries. For **each ruler**: what the documentary actually says about them, an **illustration of a key event**, and their **place in the family tree** (how they inherited — son, brother, nephew, cousin, or elected outsider).
 >
-> Reading the trees: a **blue box** = the reigning ruler; **👑** = crowned Emperor (not just German king). Yellow = German kings, blue = France, green = Italy, orange = Burgundy.
+> Reading the trees: a **blue box** = the reigning ruler; **👑** = crowned Emperor (not just German king). In the medieval trees, yellow = German kings, blue = France, green = Italy, orange = Burgundy; in the later trees, colour codes the branch (Austrian Habsburg, Spanish Habsburg, Habsburg-Lorraine, Hohenzollern-Prussia).
 >
-> ⚠️ **Part 1 only** — ends on the eve of the Reformation. Where the documentary skips a ruler that the family tree includes, that's noted. The Merovingians predate the tree (which begins at Charlemagne), and a **pre-royal prologue** (Germania before 481) opens the note.
+> ⚠️ Rulers are numbered continuously (1–52). A **pre-royal prologue** (Germania before 481) opens the note; the Merovingians predate the family tree (which begins at Charlemagne). Where the documentary skips a ruler that the family tree includes, that's noted.
+>
+> ⚠️ **The story changes shape partway through.** Up to the Reformation it is a fairly tidy king-list. After the **Thirty Years' War** the Holy Roman Empire decays into "a loose confederation of hundreds of microstates" (Voltaire: *neither holy, nor Roman, nor an empire*), and the real story becomes a **duel between two rising powers — Habsburg Austria and Hohenzollern Prussia** — until Bismarck welds the German states into one empire in 1871. The ruler spine continues (emperors *and* Prussian kings) with the wars, treaties and revolutions woven under them, as the documentaries do.
 
 ---
 
@@ -255,5 +259,149 @@ He turned at once to Germany and his great foe, the pagan **Saxons** (led by rul
 
 ---
 
+## Reformation & the Habsburg split (1493–1558)
+*(The first documentary ends on **Frederick III** (1440–1493), on the eve of the Reformation; the second opens at 1558. Here's the connective tissue between them.)*
+
+Frederick III's son **Maximilian I** married **Mary, Duchess of Burgundy**, pulling the wealthy Low Countries into the Habsburg orbit. Their son Philip married **Joanna of Castile** (daughter of Ferdinand of Aragon and Isabella of Castile) — and *their* son **Charles V** inherited what the charts video calls "the best inheritance anyone has ever received": the Holy Roman Empire, the Low Countries, and the Spanish crown with its South Italian and New World domains — more of Europe than anyone had ruled since Charlemagne. His reign was consumed by the **Reformation** (Luther's 1517 theses splitting German Christendom, later standardising the German language via his Bible) and endless war.
+
+Before dying he made a wise split: **Spain and the Low Countries** went to his son **Philip II** (the **Spanish Habsburgs**), while the **imperial title** went to his brother **Ferdinand I** (the **Austrian Habsburgs**), who through his wife also held Bohemia and Hungary. From here the two branches diverge; this note follows the **Austrian** line — and the new **Hohenzollern** power growing in Brandenburg-Prussia.
+
+![[germany-p2-chart-01-habsburg-split.jpg]]
+*Charles V and Ferdinand I split the inheritance: Spanish Habsburgs (Philip II) vs Austrian Habsburgs (Ferdinand I) — with the House of Hohenzollern already on the chart's edge.*
+
+---
+
+## The Thirty Years' War (1618–1648)
+
+### 41. Ferdinand I 👑 (1558–1564) — Austrian Habsburg
+**Relation:** **brother** of Charles V; took the imperial title on Charles's 1558 abdication. He was the **first emperor to receive the title automatically on being crowned King of Germany** — the separate papal coronation (Charles V was the last to have one) was done away with.
+
+### 42. Maximilian II · Rudolf II · Matthias (1564–1619) — Austrian Habsburg
+**Relation:** Ferdinand's **son** Maximilian II, then Maximilian's sons **Rudolf II** (from 1576) and **Matthias**. **Rudolf** was a strange recluse who preferred private hobbies to ruling and dodged the mounting Protestant–Catholic conflict — granting the Bohemian Hussites the **Letter of Majesty**. The **Protestant Union** and **Catholic League** formed in 1608–09. Neither Rudolf nor Matthias had legitimate sons.
+
+### 43. Ferdinand II 👑 (1619–1637) — Austrian Habsburg
+**Relation:** **cousin** of Matthias. An ardent Catholic; became **King of Bohemia in 1617**. When he moved to revoke the Letter of Majesty, his representatives in Prague were seized and thrown out a window — the **Defenestration of Prague** (they survived, reportedly landing in manure). Bohemia revolted, igniting the **Thirty Years' War**.
+![[germany-p2-01-defenestration-prague.jpg]]
+*The Defenestration of Prague (1618): Ferdinand II's officials thrown from a Hradčany window — the spark of the Thirty Years' War.*
+
+The war ran in **four phases**, and though it began over religion it became a struggle over imperial power and the European balance — Catholic France would end up funding Protestants to hem in the Habsburgs:
+- **Bohemian phase** — crushed at the **Battle of White Mountain (1620)** near Prague, a decisive Catholic victory that ended the Bohemian revolt.
+- **Danish phase** — Christian IV of Denmark-Norway intervened (with English/Scottish troops and French money) and was repelled by the brilliant general **Albrecht von Wallenstein**; Denmark surrendered in 1629.
+- **Swedish phase** — **Gustavus Adolphus** of Sweden intervened in 1630, winning at Breitenfeld. He and Wallenstein met at the **Battle of Lützen (1632)** — a Swedish win, but Gustavus died leading a cavalry charge; Wallenstein was assassinated the next year. Ended with the 1635 Peace of Prague.
+- **French phase** — the longest and most violent; France entered directly. **Ferdinand III** succeeded mid-war (1637) and wanted peace.
+![[germany-p2-02-battle-white-mountain.jpg]]
+*Battle of White Mountain (1620): the Catholic/Habsburg victory that ended the Bohemian revolt.*
+![[germany-p2-03-gustavus-adolphus-lutzen.jpg]]
+*Gustavus Adolphus of Sweden at Lützen (1632) — a Swedish victory in which the king was killed.*
+
+### 44. Ferdinand III 👑 (1637–1657) — Austrian Habsburg
+**Relation:** **son** of Ferdinand II. Ended the war with the **Peace of Westphalia (1648)**. Switzerland and the Netherlands became fully independent; France took Alsace and became the dominant continental power; religious coexistence was officially accepted. **Germany lost the most** — up to **8 million dead**, nearly a third of its population and half its men. The Empire survived but the **princes gained sweeping autonomy**; hopes of a unified HRE were finished. One state that came out ahead: **Brandenburg-Prussia**, with territorial gains under **Frederick William, the Great Elector**.
+![[germany-p2-04-peace-of-westphalia.jpg]]
+*The Peace of Westphalia (1648): the treaty that ended the war and entrenched the Empire's fragmentation.*
+
+---
+
+## Two powers rise — Austria & Prussia
+
+### The Great Elector — Brandenburg-Prussia consolidates
+**Frederick William, the Great Elector** turned a poor, scattered, militarily feeble Brandenburg into a rising state — building the army, growing the economy, even founding a small African colony (the *Brandenburger Gold Coast*). Bavaria, Saxony and above all **Austria** were the other consolidating players as the HRE faded into irrelevance.
+![[germany-p2-05-great-elector.jpg]]
+*Frederick William, the Great Elector of Brandenburg — architect of the Prussian rise.*
+
+### 45. Leopold I 👑 (1658–1705) — Austrian Habsburg
+**Relation:** **son** of Ferdinand III. His long reign saw the **Great Turkish War** and the climactic **Battle of Vienna (1683)** — the Ottomans besieged the Habsburg capital, and a relief army from across the Empire plus Poland broke the siege with **the largest cavalry charge in history**, killing or capturing ~20,000 Ottomans and saving the imperial capital. Austria then pushed the Turks out of Hungary. Two other landmarks: the **Spanish Habsburg line went extinct** (triggering the War of the Spanish Succession), and the **Duke of Prussia (House of Hohenzollern)** was elevated to **King *in* Prussia** — soon two German great powers instead of one.
+![[germany-p2-06-siege-of-vienna-1683.jpg]]
+*The Battle of Vienna (1683): the Ottoman siege broken by an imperial–Polish relief army.*
+![[germany-p2-chart-02-leopold-prussia-rise.jpg]]
+*Leopold I's line, with the Hohenzollerns of Prussia rising alongside — Frederick William (Great Elector) → Frederick I → Frederick William I.*
+
+### 46. Joseph I & Charles VI 👑 (1705–1740) — Austrian Habsburg
+**Relation:** Leopold's **sons**. The **War of the Spanish Succession** (1701–1714) ended roughly in a draw; Bourbon Philip V kept Spain but renounced the French throne. Meanwhile **Frederick I** styled himself **King *in* Prussia (1701)**, and his son **Frederick William I**, the **Soldatenkönig ("Soldier King")**, built Prussia's army into the "Sparta of the North," living frugally and selling off the African colony to fund it. **Charles VI** died **without a male heir**, having tried to secure his daughter's inheritance — triggering the next war.
+![[germany-p2-07-soldier-king.jpg]]
+*Frederick William I, the "Soldier King," who forged the Prussian military machine.*
+
+---
+
+## Frederick the Great vs Maria Theresa
+
+### 47. Frederick II "the Great" (1740–1786) — King of Prussia, Hohenzollern
+**Relation:** **son** of the Soldier King, who despised the boy's love of arts over soldiering — abusing him, and in 1730 forcing him to **watch the execution** of his friend von Katte after a failed escape. Yet Frederick became **Frederick der Große**. On his accession he stunned Austria by invading **Silesia (1740)**, seizing one of the Habsburgs' richest provinces (victories at **Mollwitz**, Hohenfriedberg). A patron of Voltaire ("Sparta in the morning, Athens in the afternoon"), he was also a military genius who made Prussia a first-rank power.
+![[germany-p2-08-frederick-the-great.jpg]]
+*Frederick the Great — Prussia's philosopher-warrior king.*
+![[germany-p2-10-battle-of-mollwitz.jpg]]
+*The Battle of Mollwitz (1741): Prussian infantry seizing Silesia from Austria.*
+
+### 48. Maria Theresa & Francis I 👑 (1740–1780) — Habsburg / Habsburg-Lorraine
+**Relation:** **daughter** of Charles VI. German law barred a woman from the imperial title, so she became **Archduchess of Austria** and Queen of Bohemia and Hungary while her husband **Francis I** (House of Lorraine) held the imperial crown — but **she wielded the real power**. The **War of the Austrian Succession (1740–48)** secured her inheritance but confirmed Prussia's grab of Silesia. Their descendants are the **House of Habsburg-Lorraine**.
+![[germany-p2-09-maria-theresa.jpg]]
+*Maria Theresa — the Habsburg empress in all but title, and Frederick's great rival.*
+![[germany-p2-chart-03-austrian-succession.jpg]]
+*The War of the Austrian Succession on the tree: Maria Theresa & Francis I vs Frederick the Great; Charles VII of Wittelsbach briefly holds the imperial title.*
+
+### The Seven Years' War (1756–1763) & Partition of Poland
+The **Seven Years' War** — arguably the first true world war (the American theatre = the French and Indian War) — saw Prussia and Austria **swap allies** (France now backing Austria, Britain backing Frederick). Surrounded by Austria, France, Russia and Sweden, Frederick struck first into Saxony (1756) and won against the odds at **Rossbach** and **Leuthen**; at one point a bullet was stopped by his snuffbox. Prussia neared collapse until the **"Miracle of the House of Brandenburg" (1762)** — Empress Elizabeth of Russia died and her pro-Frederick successor **Peter III** switched sides. The war ended in 1763 with borders essentially unchanged — a Prussian triumph. In **1772** Frederick engineered the **First Partition of Poland** with Austria and Russia, linking his territories and letting him style himself **King *of* Prussia**. Maria Theresa died in 1780; Frederick, mourning her, wrote he "was her opponent but never her enemy," and died in his armchair in 1786.
+![[germany-p2-11-seven-years-war.jpg]]
+*The Seven Years' War — Frederick fighting a coalition of Europe's great powers and surviving.*
+![[germany-p2-12-partition-of-poland.jpg]]
+*The First Partition of Poland (1772): Prussia, Austria and Russia carve up a declining neighbour.*
+
+---
+
+## Revolution, Napoleon & the end of the Empire
+
+### 49. Joseph II & Leopold II 👑 (1780–1792) — Habsburg-Lorraine
+**Relation:** **sons** of Maria Theresa and Francis I; brothers of **Marie Antoinette**, whose fate in the **French Revolution** alarmed every European monarch. In 1791 Austria and Prussia issued the **Declaration of Pillnitz** backing Louis XVI.
+![[germany-p2-13-french-revolution.jpg]]
+*The French Revolution — the upheaval that terrified Europe's monarchies and drew the German powers into war.*
+
+### 50. Francis II 👑 (1792–1806) — the last Holy Roman Emperor, Habsburg-Lorraine
+**Relation:** **son** of Leopold II. The **Wars of the Coalitions** went badly for the Germans; the young general **Napoleon** rose to dominate Europe. After **Austerlitz (1805)** shattered the Austro-Russian armies, Francis **dissolved the Holy Roman Empire in 1806** and abdicated the imperial title — but had already re-titled himself **Emperor of Austria**, so the Habsburgs kept an imperial crown. Napoleon reorganised the German lands into the **Confederation of the Rhine**, a French satellite; some states (Bavaria, Württemberg) sided with him, absorbed neighbours, and became kingdoms. Prussia, after staying neutral too long, was crushed at **Jena–Auerstedt (1806)**.
+![[germany-p2-14-battle-of-austerlitz.jpg]]
+*The Battle of Austerlitz (1805): Napoleon's masterpiece, forcing Austria to terms.*
+![[germany-p2-15-francis-ii-hre-dissolved.jpg]]
+*Francis II — the last Holy Roman Emperor, who dissolved the thousand-year Empire in 1806 and became Emperor of Austria instead.*
+![[germany-p2-chart-04-habsburg-lorraine.jpg]]
+*The Habsburg-Lorraine line down to Francis II — the final emperors of the old Reich.*
+
+### The Congress of Vienna & the German Confederation (1815)
+Napoleon was beaten at **Leipzig (1813)**, then finally at **Waterloo (1815)**. At the **Congress of Vienna (1814–15)**, overseen by Austria's **Metternich**, the Confederation of the Rhine was replaced by the **German Confederation (Deutscher Bund)** — ~39 states, presided over by the Austrian emperor, as ineffective as the old Empire (it even included the kings of Denmark and Britain as German dukes). Prussia gained a large slice of western Germany. The settlement opened **a near-century of relative European peace (1815–1914)**.
+![[germany-p2-16-congress-of-vienna.jpg]]
+*The Congress of Vienna (1814–15): Europe's powers redraw the map after Napoleon.*
+
+---
+
+## Unification — the birth of Germany
+
+### The 1848 Revolutions & the Frankfurt Parliament
+Nationalism and reform spread; mass German emigration (to the US, Canada, South America) carried the language and traditions like the *Christmas tree* abroad. In **1848**, revolution swept Europe (the *Communist Manifesto* was published in Germany that year). The **Frankfurt National Assembly** debated a German nation — **Großdeutschland** (with Austria) vs **Kleindeutschland** (Prussia-led, without Austria) — and offered the crown to **Frederick William IV of Prussia**, who **refused it**. By 1849 the revolution collapsed and unity stayed theoretical.
+![[germany-p2-17-frankfurt-parliament-1848.jpg]]
+*The Frankfurt Parliament (1848) in the Paulskirche — the first attempt at a unified German nation.*
+
+### Bismarck: "iron and blood"
+In 1862 **Otto von Bismarck** became minister-president of Prussia, declaring Germany would be forged by **"iron and blood."** He engineered three short, decisive wars:
+- **Second Schleswig War (1864)** — Prussia and Austria beat Denmark, then quarrelled over the spoils.
+- **Austro-Prussian War (1866)** — settled in 7 weeks at **Königgrätz**; Austria was expelled from German affairs, the Confederation dissolved and replaced by the **North German Confederation** under Prussia.
+- **Franco-Prussian War (1870–71)** — Bismarck maneuvered France into looking the aggressor, rallying the southern German states; a decisive Prussian victory.
+![[germany-p2-18-bismarck.jpg]]
+*Otto von Bismarck — the "Iron Chancellor" who forged Germany through war and diplomacy.*
+
+### 51. Wilhelm I 👑 (1871–1888) — German Emperor (Kaiser), Hohenzollern
+**Relation:** King of Prussia, proclaimed the **first German Kaiser** in the Hall of Mirrors at Versailles in **1871** as the last states (Bavaria last) joined. The **German Empire** was born — Kaiser, Chancellor Bismarck, and a Reichstag. Note the family tree now shows **two imperial lines in parallel** — the German Kaiser (Wilhelm I) and the Austrian Emperor (**Franz Joseph**), a situation lasting until 1918.
+![[germany-p2-19-german-empire-proclaimed-1871.jpg]]
+*The proclamation of the German Empire, Versailles 1871 (Anton von Werner) — Wilhelm I becomes Kaiser.*
+![[germany-p2-chart-05-german-empire.jpg]]
+*The tree splits into the German Empire (Wilhelm I → Wilhelm II) and the Austrian Empire (Franz Joseph) — two Kaisers at once.*
+
+### 52. Wilhelm II 👑 (1888–1918) — German Emperor, Hohenzollern
+**Relation:** **grandson** of Wilhelm I (skipping his short-reigning father). Impulsive and reckless, he clashed with Bismarck and **dismissed him**. Germany boomed — a centre of science, industry and culture, with colonies in Africa and Asia — but a naval and military build-up alarmed Britain, France and Russia. The **Triple Alliance** (Germany, Austria-Hungary, Italy) faced the **Triple Entente** (Britain, France, Russia).
+
+**World War I** began with the assassination of **Archduke Franz Ferdinand (28 June 1914)**. Germany's invasion of France through Belgium was halted at the **First Marne**; the war bogged into **trench warfare**. Wilhelm became a "shadow Kaiser" as the military ran the state. Russia exited after the 1917 revolution, but **US entry** (provoked by submarine warfare and the Zimmermann telegram to Mexico) tipped the balance. By **11 November 1918** Germany surrendered. The **Austrian and Ottoman empires dissolved**; Germany lost its colonies and territory, accepted war guilt and reparations. **Wilhelm II abdicated** — the German Empire was over, and the **Weimar Republic** began, its humiliation setting the stage for the next catastrophe.
+![[germany-p2-20-wilhelm-ii.jpg]]
+*Kaiser Wilhelm II — the last German Emperor, whose recklessness helped drag Germany into WWI.*
+![[germany-p2-21-world-war-one.jpg]]
+*World War I: German soldiers in the trenches — the war that ended the empire in 1918.*
+
+---
+
 ## The through-line
-Because the German crown was **elective**, it kept jumping sideways — to sons when possible, but often to **brothers, nephews, cousins or outright outsiders** whenever a direct male heir failed (Otto III, Henry II, Henry V, Sigismund all died sonless). That, plus the old Frankish habit of **splitting land among all the heirs**, is why Germany never fused into one hereditary kingdom like France or England — and why the Empire drifted into a "loose union of statelets," each with its own army, currency and laws, until the **Habsburgs** finally locked in the elective crown by marriage and held it for centuries.
+The first lesson of this history is that an **elective crown** and **partible inheritance** kept Germany from fusing like France or England. The sequel followed from it: the **Thirty Years' War** wrecked the Holy Roman Empire and locked in its fragmentation, but out of the wreckage rose **two** German great powers — **Habsburg Austria** and **Hohenzollern Prussia**. Their century-long duel (Silesia, the Seven Years' War, 1866) was finally resolved not by the old Empire but by **Prussia's Bismarck**, who welded the German states into a single **Kleindeutschland** empire in 1871 — deliberately *without* Austria. That new, industrial, militarised Germany then over-reached into **World War I**, ending both German and Austrian imperial monarchies in 1918.
