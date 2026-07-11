@@ -129,7 +129,3 @@ summarised: 2026-07-03
 - Beautiful utopian ideas ("from each according to his ability...") have repeatedly led to enormous suffering — the law of unintended consequences.
 - His closing note of hope: **most people are cooperative and kind most of the time**, and you usually get back what you put in.
 - Lex's closing quote (JFK): *"The very word 'secrecy' is repugnant in a free and open society..."*
-
-## Related
-- [[Dario Amodei - Anthropic CEO on Claude, AGI - Lex Fridman 452]] (other Lex Fridman summary)
-- [[The Firsts - Dr. Omar Suleiman]] (other summarised series)

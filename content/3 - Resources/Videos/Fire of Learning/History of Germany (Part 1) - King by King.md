@@ -19,7 +19,6 @@ scope: Ancient Germanic tribes → eve of the Reformation (~1437)
 summarised: 2026-07-03
 note: King-by-king. Each ruler gets the documentary's own detail, an event illustration, and their place in the family tree.
 ---
-
 # History of Germany — King by King (Part 1)
 
 > A ruler-by-ruler walk through German history to the eve of the Reformation, told at the level of detail in the Fire of Learning documentary. For **each king**: what the documentary actually says about them, an **illustration of a key event**, and their **place in the family tree** (how they inherited — son, brother, nephew, cousin, or elected outsider).
