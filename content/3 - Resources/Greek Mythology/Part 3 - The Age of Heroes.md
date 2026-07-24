@@ -16,6 +16,9 @@ tags:
 > **Part III — the Age of Heroes (the Bronze/Heroic Age).**
 > With the divine order settled ([[Part 2 - The Age of Gods|Part II]]), the myths turn to **mortals fathered or favoured by the gods** who tame the monsters born of Typhon and Echidna. This covers the great hero-cycles in roughly the order the legendary chronologies place them: **Perseus → Bellerophon → Heracles → the Argonauts → Theseus.** These generations overlap — Heracles even sails briefly with the Argonauts — so "chronology" here means genealogical sequence, not fixed dates.
 
+> [!tip] Related
+> For the peoples, dynasties and place-names these heroes spring from, see [[Peoples & Lands - the Greek Table of Nations|Peoples & Lands — the Greek Table of Nations]].
+
 > [!note] Continuity & sources
 > Continues from [[Part 2 - The Age of Gods|Part II: The Age of Gods]]. Primary sources shift from Hesiod toward the mythographers and tragedians:
 > - **Apollodorus, *Bibliotheca* 2–3, *Epitome*** — the systematic backbone for every hero here.
